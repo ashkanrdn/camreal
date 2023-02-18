@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "expo": "~47.0.12",
+    "expo-camera": "~13.1.0",
+    "expo-media-library": "~15.0.0",
+    "expo-sharing": "~11.0.1",
     "expo-status-bar": "~1.4.2",
+    "native-base": "^3.4.25",
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-native": "0.70.5",
